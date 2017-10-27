@@ -5,4 +5,4 @@ In this repository, I keep some machine learning projects I work on to share wit
 
 1. Credit_Fraud_Detection_the_Power_of_Ensemble.ipynb: IPython notebook describing a project I recently finished on Kaggle. The project employs techiniques of logistic regression, decision tree, random forest, and AdaBoost to detect fraudulent credit transactions. Best performance so far is observed from random forest, which provides an AUC of 0.984. Data file can be downloaded through the link provided in notebook.
 
-2. 
+2. Detecting_Credit_Fraud_through_Neural_Network.ipynb: A continuation of above project, in which a neural network was constructed with TensorFlow library. AUC is 0.990, showing a slight improvement over random forest.
